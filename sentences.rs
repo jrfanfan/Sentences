@@ -1,6 +1,6 @@
 use rand::seq::SliceRandom;
 
-// This program  generates simple English sentences.
+// This program generates simple English sentences that contain a deternminer, a noun, a verb, a preposition and suggested object.
 
 fn main() {
     let mut num = 0;
